@@ -1,0 +1,28 @@
+{
+  "name": "authentication-pulsar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "GeorgeShalamberidze",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.6.0",
+    "@fastify/websocket": "^7.2.0",
+    "apollo-server": "^3.12.0",
+    "apollo-server-express": "^3.12.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "graphql": "^16.0.0",
+    "graphql-subscriptions": "^2.0.0",
+    "graphql-ws": "^5.12.1",
+    "jsonwebtoken": "^9.0.0",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
