@@ -1,8 +1,6 @@
 # Login-Authentication
 GraphQL/React/JWT
 
-# Paddle-Game
-
 ## Built with: 
  - GraphQL
  - Apollo
